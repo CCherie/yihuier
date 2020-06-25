@@ -1,0 +1,41 @@
+.table{
+    width: 80%;
+    margin: 0 auto;
+}
+th{
+    text-align: center;
+}
+.blue{
+    color:blue;
+    font-size: 75px;
+}
+.green{
+    color: darkgreen;
+    font-size: 75px;
+}
+.orange{
+    color: darkorange;
+    font-size: 75px;
+}
+.pink{
+    color: tomato;
+    font-size: 75px
+}
+.red{
+    color:red;
+    font-size: 75px;
+}
+.white{
+    color:black;
+    font-size: 75px;
+}
+#second{
+    margin-top: 15px;
+}
+#content th{
+    height: 200px;
+}
+p{
+    color:#009688;
+    font-size: 20px;
+}
